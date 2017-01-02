@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["app.css","1efcb903ef263b0faeba41a520e4cb31"],["app.js","36ae93b82dab3fc4907b08199df19d65"],["fonts/FontAwesome.otf","5dc41d8fe329a22fa1ee9225571c843e"],["fonts/fontawesome-webfont.eot","25a32416abee198dd821b0b17a198a8f"],["fonts/fontawesome-webfont.svg","d7c639084f684d66a1bc66855d193ed8"],["fonts/fontawesome-webfont.ttf","1dc35d25e61d819a9c357074014867ab"],["fonts/fontawesome-webfont.woff","c8ddf1e5e5bf3682bc7bebf30f394148"],["fonts/fontawesome-webfont.woff2","e6cf7c6ec7c2d6f670ae9d762604cb0b"],["images/bg.jpg","815815ced8907527a00a4fa2e9c4cd0a"],["images/overlay.png","4fefaa741ed625b3e16aba5ada3d56bc"],["index.html","3470cd4b4b3535546314c13953128fa9"]];
+var precacheConfig = [["app.css","1efcb903ef263b0faeba41a520e4cb31"],["app.js","36ae93b82dab3fc4907b08199df19d65"],["fonts/FontAwesome.otf","5dc41d8fe329a22fa1ee9225571c843e"],["fonts/fontawesome-webfont.eot","25a32416abee198dd821b0b17a198a8f"],["fonts/fontawesome-webfont.svg","d7c639084f684d66a1bc66855d193ed8"],["fonts/fontawesome-webfont.ttf","1dc35d25e61d819a9c357074014867ab"],["fonts/fontawesome-webfont.woff","c8ddf1e5e5bf3682bc7bebf30f394148"],["fonts/fontawesome-webfont.woff2","e6cf7c6ec7c2d6f670ae9d762604cb0b"],["images/bg.jpg","815815ced8907527a00a4fa2e9c4cd0a"],["images/overlay.png","4fefaa741ed625b3e16aba5ada3d56bc"],["index.html","5e4d232f0929b484ebece355480d8cfa"]];
 var cacheName = 'sw-precache-v2--' + (self.registration ? self.registration.scope : '');
 
 
