@@ -1308,11 +1308,11 @@
 
 	html {
 		background-color: #313a3d;
-		background-attachment: fixed,						fixed;
+		background-attachment: fixed;
 		background-image: url("../../images/bg.jpg");
-		background-position: top left,					center center;
-		background-repeat: repeat,						none;
-		background-size: auto,						cover;
+		background-position: cover;
+		background-repeat: none;
+		background-size: cover;
 	}
 
 	html.is-loading body *, html.is-loading body *:before, html.is-loading body *:after {
