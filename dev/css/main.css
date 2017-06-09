@@ -1307,12 +1307,8 @@
 /* Basic */
 
 	html {
-		background-color: #313a3d;
-		background-attachment: fixed;
 		background-image: url("../../images/bg.jpg");
-		background-position: cover;
-		background-repeat: none;
-		background-size: cover;
+		background-repeat: repeat;
 	}
 
 	html.is-loading body *, html.is-loading body *:before, html.is-loading body *:after {
@@ -1432,10 +1428,6 @@
 		border-bottom: solid 1px #dddddd;
 		margin: 2em 0;
 	}
-
-		hr.major {
-			margin: 3em 0;
-		}
 
 	blockquote {
 		border-left: solid 6px #dddddd;
@@ -1899,28 +1891,6 @@
 		font-size: 0.8em;
 		margin-top: -0.6em;
 	}
-
-	header.major {
-		text-align: center;
-	}
-
-		header.major h1, header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
-			position: relative;
-		}
-
-			header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
-				background: #dddddd;
-				content: '';
-				display: block;
-				height: 2px;
-				margin: 0.75em auto 0 auto;
-				position: relative;
-				width: 4em;
-			}
-
-		header.major p {
-			margin-top: 0;
-		}
 
 /* Form */
 
